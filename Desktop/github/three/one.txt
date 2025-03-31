@@ -1,1 +1,2 @@
-file one of folder three
+file one of folder three.
+add another line.
